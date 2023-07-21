@@ -1,5 +1,7 @@
 # Terraform
 
+![terrform](images/terraform-architecture-diagram.png)
+
 ## What is Terraform?
 Terraform is an open-source infrastructure as code tool, that allows to define and provision infrastructure resources in a declarative manner. Terraform promotes automated and consistent infrastructure deployment across various cloud providers and other infrastructure platforms.
 
