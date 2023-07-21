@@ -27,7 +27,6 @@ Terraform is an open-source infrastructure as code tool, that allows to define a
 
 ![terraform architecture](images/tf_arch.png)
 
-
 Terraform can provision resources in the cloud from simple declarative code using main.tf file. With the right key access, Terraform can communicate with cloud providers to create resources such as virtual machines with specified settings: vpc, subnets or security groups.
 
 After using Terraform to create virtual machines (resources), Ansible can then use playbooks to provide infrastructure to the fresh virtual machines.
