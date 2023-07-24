@@ -22,3 +22,15 @@
    ```
    terraform destroy
    ```
+
+## VPC
+
+![vpc](images/vpc.jpg)
+
+[How to set up VPC manually on AWS](https://github.com/jungjinggg/tech241_aws/blob/main/create_vpc.md)
+
+### CIDR
+1. VPC: 10.0.0.0/16
+2. Public subnet: 10.0.2.0/24
+3. Private subnet: 10.0.3.0/24
+
